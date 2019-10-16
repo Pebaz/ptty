@@ -134,7 +134,6 @@ def term(globs=globals(), locs=locals()):
 if __name__ == '__main__':
     term()
 else:
-	print('here')
 	# Allow this module to be callable
 	import sys
 	sys.modules[__name__] = term
