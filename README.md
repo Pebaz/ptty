@@ -25,6 +25,8 @@ Meant to be imported and used inline similar to [ipdb](<https://github.com/gotch
 ...     print(a)
 ```
 
+Can also be used from the command line like a normal Python REPL:
+
 ```bash
 $ ptty
 ```
