@@ -1,4 +1,7 @@
 # ptty
+
+![Project License](https://img.shields.io/github/license/Pebaz/ptty)
+
 Python Terminal (Tiny)
 
 A simple but powerful terminal for Python.
