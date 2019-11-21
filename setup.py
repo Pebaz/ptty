@@ -8,7 +8,7 @@ setup(
 	py_modules=['ptty'],
 	entry_points={
 		'console_scripts' : [
-			'ptty=ptty'
+			'ptty=ptty:term'
 		]
 	}
 )
